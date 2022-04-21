@@ -17,7 +17,7 @@ public class MayoriadeEdad : MonoBehaviour
         }
         else
         {
-            miTexto.text = "No es mayor de Edad";
+            miTexto.text = "No es x|mayor de Edad";
             Debug.Log("No es mayor de Edad");
         }
 
